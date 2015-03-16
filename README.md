@@ -1,7 +1,7 @@
 Joomla Raffle
 ====================
 
-This is an extension for Joomla 3.3.x that allows you to configure and run unlimited sweepstakes or raffles on your Joomla site. (Other platforms coming soon!)
+This is an extension for Joomla 3.3.x+ that allows you to configure and run unlimited sweepstakes or raffles on your Joomla site. (Other platforms coming soon!)
 
 ## Features
 * Easy installation - have your first contest up and running in 5 minutes
@@ -20,7 +20,7 @@ This is an extension for Joomla 3.3.x that allows you to configure and run unlim
 * Uses Joomla language parameters to support changing or translating any text throughout the system
 
 ## System Requirements
-* Joomla 3.3.x (tested on 3.3.6)
+* Joomla 3.3.x (tested on 3.3.6 to 3.4.0)
 * PHP 5.x (tested on 5.4.21)
 * MySQL 5.5 (tested on 5.5.21)
 
